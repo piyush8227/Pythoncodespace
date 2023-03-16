@@ -1,0 +1,57 @@
+1. What is machine learning model ?
+Ans - A machine learning model is nothing but a mathematical function that helps to figure out relationship in the data. **y = f(x)** is a mathematical function that states, value of y i.e predictor depends upon value of x i.e. features. This model is given a set of inputs which upon are trained with the help of mathematical function and then it generates output that can help to make better predictions or decisions based on new or unseen data. These model can learn from the data. Examples of machine learning models include decision trees, neural networks, and support vector machines.
+
+2. Machine learning systems can be divided into three categories:
+    1. Supervised Learning - This is the most commonly used type of machine learning. It involves training a model using labeled data, which means that the data is already classified. The model is then used to predict the label of new, unseen data. Examples of supervised learning algorithms include linear regression, logistic regression, decision trees, and neural networks. It is further classified into two types Classification and Regression.
+    2. Unsupervised Learning - In unsupervised learning, the data is not labeled, and the model must find patterns or relationships on its own. The goal of unsupervised learning is to explore the data and find hidden structures. Examples of unsupervised learning algorithms include clustering, principal component analysis, and association rule mining.
+    3. Reinforcement Learning - Reinforcement learning is a type of machine learning where an agent learns by interacting with its environment. The agent receives rewards or punishments for certain actions, and the goal is to maximize the rewards over time. Examples of reinforcement learning algorithms include Q-learning and deep reinforcement learning.
+
+3. Data Accumulation Strategies and resources
+
+Ans - Data accumulation strategies are the methods used to collect, store and manage data over time. These strategies are important because they ensure that data is collected and stored in an organized way and can be easily accessed when needed.
+There are several data accumulation strategies that organizations can use. 
+a. One common strategy is to collect data in a centralized database or data warehouse. This involves storing all of the data in one place, which makes it easier to manage and access. 
+b. Another strategy is to use a distributed database, which involves storing data across multiple locations or servers. This can help to improve performance and ensure that data is always available.
+There are several resources that organizations can use to help manage their data. One common resource is a data management platform (DMP), which is a software tool that is designed to help organizations collect, store and analyze large amounts of data. 
+Another resource is a data lake, which is a repository of data that is stored in its raw form, allowing for more flexible analysis and processing. Examples GCP, Amazon S3.
+Overall, data accumulation strategies and resources are essential part of any organization's data strategy. By implementing effective data accumulation strategies and using the right resources, organizations can ensure that their data is well-managed, easily accessible, and used to drive meaningful insights and decisions.
+
+4. EDA - Exploratory Data Analysis or EDA is a combination of several steps for processing data and gaining insights from that data. It helps in better understanding of patterns and characteristics of data. It also helps in finding relationships and trends in data. There are several steps in Exploratory Data Analysis:
+    1. Data Collection: In this step data is collected from various resources and organized into a dataset.
+    2. Data Cleaning: This step involves identifying and addressing issues with the data, such as missing values, wrong data type, duplicate values or records, null values, or inconsistent formatting.
+    3. Data Exploration: In this step, the data is explored to gain an understanding of its overall structure and characteristics. This may involve creating visualizations or calculating summary statistics to examine the distribution of the data.
+    4. Data Visualization: This step involves creating graphical representation of data to help identify patterns and relationships. This may include creating scatter plots, histogram or box plots.
+    5. Feature Engineering: In this step data is manipulated or transformed to create a new features or variables which can be more useful for subsequent analysis. For example, data may be normalized or standardized to improve comparisons.
+    6. Statistical Analysis: This step involves applying statistical techniques to the data to identify relationships or trends. This may include hypothesis testing, regression analysis, or correlation analysis. 
+    7. Machine Learning Modeling: This step involves applying machine learning algorithms to the data to make predictions or classifications based on patterns in the data.
+    8. Communicating Results: In this final step, the findings or insights of the EDA process are communicated to stakeholders, such as decision-makers or other members of the organization. This may involve creating reports or presentations that summarize the key insights and recommendations.
+
+
+5. Understanding the business problem:
+Ans - 
+    1. Identify the business problem 
+    2. Define the scope of the project
+    3. Understand the business context
+    4. Perform data exploration
+    5. Define success metrics
+    6. Communicating findings to stakeholders.
+
+6. Data Preprocessing + Feature Engineering:
+Ans - 1. Data preprocessing: It is divided into two parts:
+        a. Data cleaning: Here we are treating our data, perform operations with certain statistical measures. For example: removing null values, duplicate values or records, checking for missing values, inconsistency in data, type conversions of data or typecasting data.
+        b. Feature Engineering/Encoding : In this step data is manipulated or transformed to create a new features or variables which can be more useful for subsequent analysis. For example, data may be normalized or standardized to improve comparisons. 
+Types of features:
+ 1. Numerical feature: It can be int, float, complex
+ 2. Categorical feature: Data that shows category are known as categorical data. Examples are shoes size, cloth size, gender
+
+7. Training of an ML Model:
+Ans - After performing data preprocessing and feature engineering, the next step is to train the machine learning model. This involves selecting an appropriate algorithm and feeding it the preprocessed or cleaned data. The algorithm then creates a model that can make predictions or classifications based on new, unseen data.
+
+The model is trained using a training dataset, which is a subset of the original dataset. The training dataset is used to teach the model how to recognize patterns and make predictions. The remaining data, called the test dataset, is used to evaluate the performance of the model.
+
+There are several metrics that can be used to evaluate the performance of a machine learning model, including accuracy, precision, recall, and F1 score. These metrics help to determine how well the model is able to make predictions or classifications on new, unseen data.
+
+Once the model has been trained and evaluated, it can be used to make predictions or classifications on new data. It is important to monitor the performance of the model over time and update it as necessary to ensure that it continues to make accurate predictions.
+
+8. Hyperparameter Tuning:
+ Ans - Hyperparameter tuning is the process of selecting the best set of hyperparameters for a machine learning algorithm to achieve the best possible performance. Hyperparameters are settings that are chosen before the training process begins, and they can significantly impact the accuracy of the model. The goal of hyperparameter tuning is to systematically explore different combinations of hyperparameters to find the best possible configuration for the given task. This is often done using a search algorithm or a grid search approach. Hyperparameter tuning can help improve the accuracy and efficiency of machine learning models, allowing them to better generalize to new data.
