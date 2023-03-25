@@ -1,0 +1,362 @@
+model_name,price,CC,mileage,type_of_bike,weight_in_kg,links,acceleration_speed,top_speed
+Gravton Motors Quanta,99000,N/A,320,Electric Bike,100,https://www.carandbike.com/gravton-motors-bikes/quanta,4.2,70
+Simple Energy One,109999,N/A,236,Electric Bike,110,https://www.carandbike.com/simple-energy-bikes/one,3.6,100
+Okaya Classiq,69900,N/A,200,Electric Bike,95,https://www.carandbike.com/okaya-bikes/classiq,N/A,25
+Oben Electric Rorr,102999,N/A,200,Electric Bike,120,https://www.carandbike.com/oben-electric-bikes/rorr,3,100
+Ola Electric S1,85099,N/A,181,Electric Bike,121,https://www.carandbike.com/ola-electric-bikes/s1,2.9,116
+Ola Electric S1 Pro,120149,N/A,181,Electric Bike,125,https://www.carandbike.com/ola-electric-bikes/s1-pro,2.9,116
+Revolt RV300,114264,N/A,180,Electric Bike,101,https://www.carandbike.com/revolt-bikes/rv300,4,65
+Okinawa Praise,71990,N/A,170,Electric Bike,96,https://www.carandbike.com/okinawa-bikes/praise,9.43,78
+Hero Electric NYX HX,67540,N/A,165,Electric Bike,73,https://www.carandbike.com/hero-electric-bikes/nyx-hx,3.3,42
+Crayon Motors Envy,53000,N/A,160,Electric Bike,100,https://www.carandbike.com/crayon-motors-bikes/envy,N/A,25
+22Kymco Flow,74740,N/A,160,Electric Bike,85,https://www.carandbike.com/22kymco-bikes/flow,N/A,60
+Okinawa Okhi 90,103866,N/A,160,Electric Bike,96,https://www.carandbike.com/okinawa-bikes/okhi-90,5,90
+Revolt RV400,129463,N/A,150,Electric Bike,108,https://www.carandbike.com/revolt-bikes/rv400,4,65
+Kabira Mobility KM 4000,136990,N/A,150,Electric Bike,150,https://www.carandbike.com/kabira-mobility-bikes/km-4000,3.1,120
+One Moto Electa,199000,N/A,150,Electric Bike,115,https://www.carandbike.com/one-moto-bikes/electa,3.3,85
+Odysse Evoqis,157000,N/A,140,Electric Bike,200,https://www.carandbike.com/odysse-bikes/evoqis,4.2,80
+Okinawa i-Praise,108749,N/A,139,Electric Bike,150,https://www.carandbike.com/okinawa-bikes/i-praise,9.43,75
+Li-ions Elektrik Spock,65000,N/A,130,Electric Bike,90,https://www.carandbike.com/li-ions-elektrik-bikes/spock,3.9,45
+Tork Motors Kratos,102499,N/A,120,Electric Bike,120,https://www.carandbike.com/tork-motors-bikes/kratos,4,100
+Kabira Mobility KM 3000,126990,N/A,120,Electric Bike,150,https://www.carandbike.com/kabira-mobility-bikes/km-3000,3.3,100
+EeVe Soul,140000,N/A,120,Electric Bike,140,https://www.carandbike.com/eeve-bikes/soul,8,55
+BGauss D15,99999,N/A,115,Electric Bike,107,https://www.carandbike.com/bgauss-bikes/d15,7,60
+Nexzu Mobility Dextro,47000,N/A,110,Electric Bike,62,https://www.carandbike.com/nexzu-mobility-bikes/dextro,N/A,35
+BGauss A2,52499,N/A,110,Electric Bike,88,https://www.carandbike.com/bgauss-bikes/a2,N/A,25
+Nexzu Mobility Dextro +,66500,N/A,110,Electric Bike,62,https://www.carandbike.com/nexzu-mobility-bikes/dextro-plus,N/A,35
+Hero Electric Photon HX,74240,N/A,108,Electric Bike,87,https://www.carandbike.com/hero-electric-bikes/photon-hx,9.58,45
+Bajaj CT 110,46413,115.00,104,Petrol Bike,117,https://www.carandbike.com/bajaj-bikes/ct-110,3,90
+Atumobile Atum 1.0,50000,N/A,100,Electric Bike,108,https://www.carandbike.com/atumobile-bikes/atum-10,N/A,25
+Okinawa Ridge +,64998,N/A,100,Electric Bike,96,https://www.carandbike.com/okinawa-bikes/ridge-plus,,45
+Boom Motors Corbett-14,86999,N/A,100,Electric Bike,90,https://www.carandbike.com/boom-motors-bikes/corbett-14,,55
+Earth Energy EV Glyde +,92000,N/A,100,Electric Bike,110,https://www.carandbike.com/earth-energy-ev-bikes/glyde-plus,,90
+Ather 450,118995,N/A,100,Electric Bike,108,https://www.carandbike.com/ather-bikes/450,3.3,80
+Bajaj Platina 100,52915,102.00,96.9,Petrol Bike,117,https://www.carandbike.com/bajaj-bikes/platina-100,3,90
+Bajaj Chetak,100000,N/A,95,Electric Bike,100,https://www.carandbike.com/bajaj-bikes/chetak,4.5,80
+Bajaj CT 100,40794,102.00,89.5,Petrol Bike,114,https://www.carandbike.com/bajaj-bikes/ct-100,3.3,90
+Hero HF Deluxe i3s,59800,97.20,88.5,Petrol Bike,110,https://www.carandbike.com/hero-bikes/hf-deluxe-i3s,3.6,90
+TVS Star City +,65865,109.70,86,Petrol Bike,116,https://www.carandbike.com/tvs-bikes/star-city-plus,3.2,90
+Hero Electric Flash LX,59640,N/A,85,Electric Bike,69,https://www.carandbike.com/hero-electric-bikes/flash-lx,10,42
+Hero Electric Atria LX,66640,N/A,85,Electric Bike,69,https://www.carandbike.com/hero-electric-bikes/atria-lx,N/A,25
+Ampere Zeal Ex,74489,N/A,85,Electric Bike,78,https://www.carandbike.com/ampere-bikes/zeal-ex,11,50
+Hero Passion Pro i3S,67400,113.20,84,Petrol Bike,117,https://www.carandbike.com/hero-bikes/passion-pro-i3s,6,90
+Bounce Infinity E1,45099,N/A,83,Electric Bike,94,https://www.carandbike.com/bounce-bikes/infinity-e1,8,65
+Hero HF Deluxe,48950,97.20,83,Petrol Bike,109,https://www.carandbike.com/hero-bikes/hf-deluxe,7,85
+Hero Electric Optima HX,55580,N/A,82,Electric Bike,73,https://www.carandbike.com/hero-electric-bikes/optima-hx,8,42
+Polarity Executive,38000,N/A,80,Electric Bike,55,https://www.carandbike.com/polarity-bikes/executive,,40
+Polarity Sport,40000,N/A,80,Electric Bike,55,https://www.carandbike.com/polarity-bikes/sport,,45
+Bajaj Platina 110,65930,115.00,80,Petrol Bike,108,https://www.carandbike.com/bajaj-bikes/platina-110,5.9,90
+Gemopai Astrid Lite,84787,N/A,80,Electric Bike,96,https://www.carandbike.com/gemopai-bikes/astrid-lite,7.39,65
+Kawasaki KLX 110,299500,112.00,80,Petrol Bike,76,https://www.carandbike.com/kawasaki-bikes/klx-110,,50
+TVS Sport,52500,109.70,76.4,Petrol Bike,110,https://www.carandbike.com/tvs-bikes/sport,3,90
+Hero Splendor iSmart,65950,113.20,75,Petrol Bike,116,https://www.carandbike.com/hero-bikes/splendor-ismart,6,92
+Odysse V2,75000,N/A,75,Electric Bike,75,https://www.carandbike.com/odysse-bikes/v2,N/A,25
+Ampere Magnus Pro,79966,N/A,75,Electric Bike,94,https://www.carandbike.com/ampere-bikes/magnus-pro,10,55
+TVS iQube,166358,N/A,75,Electric Bike,118,https://www.carandbike.com/tvs-bikes/iqube,4.2,78
+Honda CD 110 Dream,65248,109.50,74,Petrol Bike,109,https://www.carandbike.com/honda-bikes/cd-110-dream,5.1,86
+Honda Livo,70799,109.50,74,Petrol Bike,115,https://www.carandbike.com/honda-bikes/livo,5,86
+TVS Victor,54042,109.70,72,Petrol Bike,112,https://www.carandbike.com/tvs-bikes/victor,6,94
+Hero HF 100,49400,97.20,70,Petrol Bike,110,https://www.carandbike.com/hero-bikes/hf-100,7.7,90
+Odysse Racer,59500,N/A,70,Electric Bike,100,https://www.carandbike.com/odysse-bikes/racer,8,45
+BGauss B8,62999,N/A,70,Electric Bike,88,https://www.carandbike.com/bgauss-bikes/b8,11,50
+Hero Splendor +,69380,97.20,70,Petrol Bike,110,https://www.carandbike.com/hero-bikes/splendor-plus,7.5,93
+Ampere Zeal,74490,N/A,70,Electric Bike,75,https://www.carandbike.com/ampere-bikes/zeal,13.8,55
+TVS Radeon,59942,109.70,69,Petrol Bike,116,https://www.carandbike.com/tvs-bikes/radeon,6,95
+Hero Pleasure + 110,61900,110.90,69,Petrol Bike,104,https://www.carandbike.com/hero-bikes/pleasure-plus-110,9,77
+TVS XL 100,40990,99.70,67,Petrol Bike,88,https://www.carandbike.com/tvs-bikes/xl-100,13,60
+TVS Raider,84573,124.80,67,Petrol Bike,123,https://www.carandbike.com/tvs-bikes/raider,3,100
+Yamaha Fascino 125,70000,125.00,66,Petrol Bike,99,https://www.carandbike.com/yamaha-bikes/fascino-125,6.9,90
+Yamaha Ray-ZR 125FI,73330,125.00,66,Petrol Bike,99,https://www.carandbike.com/yamaha-bikes/ray-zr-125fi,6.87,91
+Hero Splendor Pro,49598,97.20,65,Petrol Bike,112,https://www.carandbike.com/hero-bikes/splendor-pro,5.5,87
+TVS Scooty Pep +,52554,87.80,65,Petrol Bike,95,https://www.carandbike.com/tvs-bikes/scooty-pep-plus,8,65
+Hero Maestro Edge,65900,110.90,65,Petrol Bike,112,https://www.carandbike.com/hero-bikes/maestro-edge,5,80
+Honda CB Shine,72787,124.70,65,Petrol Bike,114,https://www.carandbike.com/honda-bikes/cb-shine,3,100
+Honda SP 125,78381,124.00,65,Petrol Bike,117,https://www.carandbike.com/honda-bikes/sp-125,3.2,100
+Bajaj Pulsar 150,95872,149.50,65,Petrol Bike,144,https://www.carandbike.com/bajaj-bikes/pulsar-150,9,112
+Suzuki New Access 125,72600,124.00,64,Petrol Bike,103,https://www.carandbike.com/suzuki-bikes/new-access-125,4,90
+Suzuki Gixxer,118800,154.90,64,Petrol Bike,140,https://www.carandbike.com/suzuki-bikes/gixxer,3,115
+TVS Scooty Zest 110,59925,109.70,62,Petrol Bike,97,https://www.carandbike.com/tvs-bikes/scooty-zest-110,8,80
+TVS Jupiter,70085,109.70,62,Petrol Bike,109,https://www.carandbike.com/tvs-bikes/jupiter,4.58,85
+Bajaj Pulsar 125,72122,124.40,62,Petrol Bike,140,https://www.carandbike.com/bajaj-bikes/pulsar-125,3,105
+Honda CB Unicorn 160,98931,162.70,62,Petrol Bike,134,https://www.carandbike.com/honda-bikes/cb-unicorn-160,4.3,101.9
+Lohia Omastar,40850,N/A,60,Electric Bike,66,https://www.carandbike.com/lohia-bikes/omastar,N/A,25
+Okinawa R30,58992,N/A,60,Electric Bike,150,https://www.carandbike.com/okinawa-bikes/r30,N/A,25
+Okinawa Dual,58998,N/A,60,Electric Bike,96,https://www.carandbike.com/okinawa-bikes/dual,N/A,25
+Hero Super Splendor,73900,124.70,60,Petrol Bike,123,https://www.carandbike.com/hero-bikes/super-splendor,4.7,100
+Hero Glamour 125,74900,124.70,60,Petrol Bike,126,https://www.carandbike.com/hero-bikes/glamour-125,4.6,91
+TVS Ntorq 125,77106,124.80,60,Petrol Bike,118,https://www.carandbike.com/tvs-bikes/ntorq-125,6,95
+Kawasaki KLX 140G,406600,144.00,60,Petrol Bike,99,https://www.carandbike.com/kawasaki-bikes/klx-140g,,70
+Evolet Pony,39499,N/A,55,Electric Bike,82,https://www.carandbike.com/evolet-bikes/pony,N/A,25
+Evolet Polo,44499,N/A,55,Electric Bike,82,https://www.carandbike.com/evolet-bikes/polo,N/A,25
+Evolet Derby,46499,N/A,55,Electric Bike,82,https://www.carandbike.com/evolet-bikes/derby,N/A,25
+Ampere Reo Elite,47264,N/A,55,Electric Bike,68,https://www.carandbike.com/ampere-bikes/reo-elite,N/A,25
+Honda Dio,64510,109.50,55,Petrol Bike,103,https://www.carandbike.com/honda-bikes/dio,6.36,83
+Suzuki Avenis,86500,124.30,55,Petrol Bike,106,https://www.carandbike.com/suzuki-bikes/avenis,8,90
+Hero Xtreme 160R,111610,163.00,55,Petrol Bike,139,https://www.carandbike.com/hero-bikes/xtreme-160r,3,115
+Kawasaki KX 100,487800,99.00,55,Petrol Bike,77,https://www.carandbike.com/kawasaki-bikes/kx-100,,75
+Hero Destini 125,67990,124.60,54,Petrol Bike,113,https://www.carandbike.com/hero-bikes/destini-125,5,80
+Honda Grazia,82566,124.00,54,Petrol Bike,107,https://www.carandbike.com/honda-bikes/grazia,5.9,92
+Suzuki Burgman,84300,124.00,53.5,Petrol Bike,110,https://www.carandbike.com/suzuki-bikes/burgman,6,96
+Okinawa Lite,59990,N/A,50,Electric Bike,150,https://www.carandbike.com/okinawa-bikes/lite,N/A,25
+TVS Jupiter 125,73400,124.80,50,Petrol Bike,109,https://www.carandbike.com/tvs-bikes/jupiter-125,4.7,90
+Bajaj Pulsar NS 125,93818,124.40,50,Petrol Bike,144,https://www.carandbike.com/bajaj-bikes/pulsar-ns-125,3,105
+Hero Maestro Edge 125,73450,124.60,49,Petrol Bike,110,https://www.carandbike.com/hero-bikes/maestro-edge-125,6,90
+TVS Apache RTR 160,112940,159.70,48,Petrol Bike,139,https://www.carandbike.com/tvs-bikes/apache-rtr-160,2.9,107
+Yamaha MT-15,144900,155.00,48,Petrol Bike,138,https://www.carandbike.com/yamaha-bikes/mt-15,2.4,130
+Yamaha MT-15 V2.0,160900,155.00,48,Petrol Bike,139,https://www.carandbike.com/yamaha-bikes/mt-15-v20,2.26,140
+TVS Apache RTR 180,103950,177.40,47,Petrol Bike,139,https://www.carandbike.com/tvs-bikes/apache-rtr-180,4,113
+Suzuki Gixxer SF,129300,154.90,47,Petrol Bike,146,https://www.carandbike.com/suzuki-bikes/gixxer-sf,3,127
+Yamaha R15S V3.0,158939,155.00,47,Petrol Bike,142,https://www.carandbike.com/yamaha-bikes/r15s-v30,2.3,136
+Ampere V48,38719,N/A,45,Electric Bike,84,https://www.carandbike.com/ampere-bikes/v48,N/A,25
+Ampere Reo,44838,N/A,45,Electric Bike,70,https://www.carandbike.com/ampere-bikes/reo,N/A,25
+Ampere Magnus,45999,N/A,45,Electric Bike,94,https://www.carandbike.com/ampere-bikes/magnus,N/A,25
+Honda Activa 6G,69645,109.50,45,Petrol Bike,107,https://www.carandbike.com/honda-bikes/activa-6g,7,85
+Honda Activa 125 FI,72637,124.00,45,Petrol Bike,111,https://www.carandbike.com/honda-bikes/activa-125-fi,5.7,93.84
+Piaggio Vespa,91492,125.00,45,Petrol Bike,114,https://www.carandbike.com/piaggio-bikes/vespa,3.9,90
+Yamaha FZ V3.0 FI,99200,149.00,45,Petrol Bike,137,https://www.carandbike.com/yamaha-bikes/fz-v30-fi,2.8,112
+Bajaj Avenger Street 160,101094,160.30,45,Petrol Bike,156,https://www.carandbike.com/bajaj-bikes/avenger-street-160,3.2,105
+Bajaj Avenger Street 220,103891,220.00,45,Petrol Bike,150,https://www.carandbike.com/bajaj-bikes/avenger-street-220,2.3,120
+Bajaj Pulsar 180,108000,178.60,45,Petrol Bike,151,https://www.carandbike.com/bajaj-bikes/pulsar-180,2.5,122
+Bajaj Pulsar NS160,110086,160.30,45,Petrol Bike,151,https://www.carandbike.com/bajaj-bikes/pulsar-ns160,3,120
+Honda X-Blade,111895,162.70,45,Petrol Bike,143,https://www.carandbike.com/honda-bikes/x-blade,2.7,120
+Yamaha FZ S V3.0 FI,115900,149.00,45,Petrol Bike,135,https://www.carandbike.com/yamaha-bikes/fz-s-v30-fi,3,115
+Yamaha FZ-X,116800,149.00,45,Petrol Bike,139,https://www.carandbike.com/yamaha-bikes/fz-x,3,115
+Piaggio Vespa 150,122664,154.80,45,Petrol Bike,114,https://www.carandbike.com/piaggio-bikes/vespa-150,5.8,90
+Royal Enfield Bullet 350,127094,346.00,45,Petrol Bike,183,https://www.carandbike.com/royal-enfield-bikes/bullet-350,3.5,110
+Yamaha Aerox 155,129000,155.00,45,Petrol Bike,122,https://www.carandbike.com/yamaha-bikes/aerox-155,3.1,120
+TVS Apache RTR 165 RP,145001,164.90,45,Petrol Bike,148,https://www.carandbike.com/tvs-bikes/apache-rtr-165-rp,3.9,123
+Yamaha YZF R15 V4.0,170800,155.00,45,Petrol Bike,142,https://www.carandbike.com/yamaha-bikes/yzf-r15-v40,2.2,140
+Royal Enfield Himalayan,210784,411.00,45,Petrol Bike,191,https://www.carandbike.com/royal-enfield-bikes/himalayan,3,145
+Suzuki Intruder,126500,154.90,44,Petrol Bike,152,https://www.carandbike.com/suzuki-bikes/intruder,3.2,115
+Hero XPulse 200T,115800,199.60,43,Petrol Bike,154,https://www.carandbike.com/hero-bikes/xpulse-200t,2.8,115
+Yamaha FZ 25,134800,249.00,43,Petrol Bike,153,https://www.carandbike.com/yamaha-bikes/fz-25,3,134
+Yamaha FZS 25,143300,249.00,43,Petrol Bike,154,https://www.carandbike.com/yamaha-bikes/fzs-25,3,134
+Yamaha Fazer 25,144180,249.00,43,Petrol Bike,154,https://www.carandbike.com/yamaha-bikes/fazer-25,3,134
+Hero XPulse 200,118230,199.60,42,Petrol Bike,157,https://www.carandbike.com/hero-bikes/xpulse-200,3.3,134
+TVS Apache RTR 200 FI E100,120000,197.80,42,Petrol Bike,152,https://www.carandbike.com/tvs-bikes/apache-rtr-200-fi-e100,,129
+Honda H Ness CB 350,196239,348.40,42,Petrol Bike,181,https://www.carandbike.com/honda-bikes/h-ness-cb-350,3.2,125
+Royal Enfield Meteor 350,205844,349.00,41.88,Petrol Bike,183,https://www.carandbike.com/royal-enfield-bikes/meteor-350,3.8,120
+KTM RC 125,180538,124.70,41.3,Petrol Bike,135,https://www.carandbike.com/ktm-bikes/rc-125,2.9,120
+Aprilia SR 150,75733,154.80,40,Petrol Bike,122,https://www.carandbike.com/aprilia-bikes/sr-150,3.29,95
+Aprilia Storm 125,85431,124.50,40,Petrol Bike,122,https://www.carandbike.com/aprilia-bikes/storm-125,6,90
+Aprilia SR 125,107595,125.00,40,Petrol Bike,122,https://www.carandbike.com/aprilia-bikes/sr-125,6,90
+Aprilia SXR 125,115000,125.00,40,Petrol Bike,129,https://www.carandbike.com/aprilia-bikes/sxr-125,6,90
+Bajaj Avenger Cruise 220,122630,220.00,40,Petrol Bike,159,https://www.carandbike.com/bajaj-bikes/avenger-cruise-220,3.1,120
+Bajaj Pulsar 220,123245,220.00,40,Petrol Bike,155,https://www.carandbike.com/bajaj-bikes/pulsar-220,1.7,120
+Hero XPulse 200 4V,130150,199.60,40,Petrol Bike,158,https://www.carandbike.com/hero-bikes/xpulse-200-4v,2.3,115
+Honda Hornet 2.0,132238,184.40,40,Petrol Bike,142,https://www.carandbike.com/honda-bikes/hornet-20,2.67,130
+Bajaj Pulsar F250,140000,249.10,40,Petrol Bike,164,https://www.carandbike.com/bajaj-bikes/pulsar-f250,3.16,130
+Honda CB200X,144500,184.40,40,Petrol Bike,147,https://www.carandbike.com/honda-bikes/cb200x,3.2,130
+Suzuki Gixxer SF 250,181900,249.00,38.5,Petrol Bike,161,https://www.carandbike.com/suzuki-bikes/gixxer-sf-250,1.92,117
+Suzuki Gixxer 250,171200,249.00,38,Petrol Bike,156,https://www.carandbike.com/suzuki-bikes/gixxer-250,1.98,122.73
+JAWA Forty Two,171415,293.00,37.5,Petrol Bike,170,https://www.carandbike.com/jawa-bikes/forty-two,3.1,120
+JAWA 300,180415,293.00,37.5,Petrol Bike,170,https://www.carandbike.com/jawa-bikes/300,3,120
+Royal Enfield Classic 350,184374,349.00,37,Petrol Bike,195,https://www.carandbike.com/royal-enfield-bikes/classic-350,2.8,115
+JAWA 42,193142,293.00,37,Petrol Bike,170,https://www.carandbike.com/jawa-bikes/42,3.23,129.46
+Benelli Leoncino 250,250000,249.00,37,Petrol Bike,162,https://www.carandbike.com/benelli-bikes/leoncino-250,1.99,154
+Hero Xtreme 200S,120214,199.60,36.9,Petrol Bike,155,https://www.carandbike.com/hero-bikes/xtreme-200s,3,115
+Aprilia SR 160,117494,160.00,35,Petrol Bike,122,https://www.carandbike.com/aprilia-bikes/sr-160,3.46,95
+Aprilia SXR 160,126000,160.00,35,Petrol Bike,129,https://www.carandbike.com/aprilia-bikes/sxr-160,3.61,100
+Bajaj Pulsar 200 NS,131219,199.50,35,Petrol Bike,152,https://www.carandbike.com/bajaj-bikes/pulsar-200-ns,2.21,136
+Bajaj Pulsar N250,138000,249.10,35,Petrol Bike,162,https://www.carandbike.com/bajaj-bikes/pulsar-n250,1.99,130
+Bajaj Pulsar RS 200,152179,199.50,35,Petrol Bike,165,https://www.carandbike.com/bajaj-bikes/pulsar-rs-200,3.8,140.8
+Bajaj Dominar 250,154176,248.80,35,Petrol Bike,180,https://www.carandbike.com/bajaj-bikes/dominar-250,1.83,132
+KTM 200 Duke,190000,199.50,35,Petrol Bike,159,https://www.carandbike.com/ktm-bikes/200-duke,1.7,142
+Honda CB 350 RS,196006,348.40,35,Petrol Bike,179,https://www.carandbike.com/honda-bikes/cb-350-rs,4,135
+JAWA Perak,208187,334.00,35,Petrol Bike,175,https://www.carandbike.com/jawa-bikes/perak,1.98,140
+KTM RC 200,213000,199.50,35,Petrol Bike,151,https://www.carandbike.com/ktm-bikes/rc-200,1.98,170
+Husqvarna Vitpilen 250,215000,248.80,35,Petrol Bike,152,https://www.carandbike.com/husqvarna-bikes/vitpilen-250,1.45,157
+Husqvarna Svartpilen 250,218000,248.80,35,Petrol Bike,154,https://www.carandbike.com/husqvarna-bikes/svartpilen-250,1.45,157
+KTM 250 Adventure,242000,248.00,35,Petrol Bike,177,https://www.carandbike.com/ktm-bikes/250-adventure,3.2,140
+KTM 390 Duke,287545,373.20,35,Petrol Bike,167,https://www.carandbike.com/ktm-bikes/390-duke,2.19,167
+KTM RC 390,314000,373.20,35,Petrol Bike,147,https://www.carandbike.com/ktm-bikes/rc-390,2.24,200
+KTM 125 Duke,176000,124.70,34.5,Petrol Bike,148,https://www.carandbike.com/ktm-bikes/125-duke,3.2,120
+Cleveland Cyclewerks Ace Deluxe,223000,229.00,33.98,Petrol Bike,133,https://www.carandbike.com/cleveland-cyclewerks-bikes/ace-deluxe,3.6,113
+Suzuki V-Strom SX 250,211600,249.00,33,Petrol Bike,167,https://www.carandbike.com/suzuki-bikes/v-strom-sx-250,3,150
+CFMoto 300NK,229000,292.40,33,Petrol Bike,151,https://www.carandbike.com/cfmoto-bikes/300nk,3.4,150
+TVS Apache RTR 200 4V,129315,197.80,32,Petrol Bike,149,https://www.carandbike.com/tvs-bikes/apache-rtr-200-4v,3.8,127
+Benelli Imperiale 400,189799,374.00,31.25,Petrol Bike,205,https://www.carandbike.com/benelli-bikes/imperiale-400,3.06,120
+Benelli TRK 502,486000,500.00,30.97,Petrol Bike,235,https://www.carandbike.com/benelli-bikes/trk-502,2,160
+Honda CB300R,277000,286.00,30.2,Petrol Bike,146,https://www.carandbike.com/honda-bikes/cb300r,2.3,160
+TVS Apache RTR 160 4V,111565,159.70,30,Petrol Bike,145,https://www.carandbike.com/tvs-bikes/apache-rtr-160-4v,2.48,113
+Yamaha R15 V3.0,157600,155.00,30,Petrol Bike,142,https://www.carandbike.com/yamaha-bikes/r15-v30,1.8,136
+Yezdi Roadster,198142,334.00,30,Petrol Bike,184,https://www.carandbike.com/yezdi-bikes/roadster,2.5,140
+Royal Enfield Scram 411,203000,411.00,30,Petrol Bike,185,https://www.carandbike.com/royal-enfield-bikes/scram-411,3.9,140
+Yezdi Scrambler,204900,334.00,30,Petrol Bike,182,https://www.carandbike.com/yezdi-bikes/scrambler,2.5,140
+Yezdi Adventure,209900,334.00,30,Petrol Bike,188,https://www.carandbike.com/yezdi-bikes/adventure,2.5,142
+KTM 250 Duke,228736,248.80,30,Petrol Bike,169,https://www.carandbike.com/ktm-bikes/250-duke,2.4,142
+Cleveland Cyclewerks Misfit,249000,229.00,30,Petrol Bike,133,https://www.carandbike.com/cleveland-cyclewerks-bikes/misfit,,110
+BMW G 310 R,250000,313.00,30,Petrol Bike,158,https://www.carandbike.com/bmw-bikes/g-310-r,2,153
+TVS Apache RR 310,259000,312.20,30,Petrol Bike,170,https://www.carandbike.com/tvs-bikes/apache-rr-310,2,160
+BMW G 310 GS,290000,313.00,30,Petrol Bike,169,https://www.carandbike.com/bmw-bikes/g-310-gs,2.3,141
+Honda CB500X,687386,471.00,28.6,Petrol Bike,199,https://www.carandbike.com/honda-bikes/cb500x,1.7,182
+BMW C 400 GT,995000,350.00,28.6,Petrol Bike,202,https://www.carandbike.com/bmw-bikes/c-400-gt,3,139
+Royal Enfield Classic Chrome,188868,499.00,27,Petrol Bike,194,https://www.carandbike.com/royal-enfield-bikes/classic-chrome,4,130
+Bajaj Dominar 400 [2019],202755,373.30,27,Petrol Bike,184,https://www.carandbike.com/bajaj-bikes/dominar-400-2019,1.7,156
+Triumph Bonneville T100,949000,900.00,26.3,Petrol Bike,228,https://www.carandbike.com/triumph-bikes/bonneville-t100,1.6,160
+Kawasaki Z250,308000,249.00,26,Petrol Bike,168,https://www.carandbike.com/kawasaki-bikes/z250,1.01,200
+Kawasaki Ninja 300,337000,296.00,26,Petrol Bike,179,https://www.carandbike.com/kawasaki-bikes/ninja-300,2.01,182
+FB Mondial HPS 300,337000,249.00,26,Petrol Bike,135,https://www.carandbike.com/fb-mondial-bikes/hps-300,3,141
+Royal Enfield Interceptor 650,281518,648.00,25.5,Petrol Bike,202,https://www.carandbike.com/royal-enfield-bikes/interceptor-650,1.9,170
+Royal Enfield Continental GT 650,298079,648.00,25.5,Petrol Bike,198,https://www.carandbike.com/royal-enfield-bikes/continental-gt-650,1.79,161
+Triumph Trident 660,745000,660.00,25.5,Petrol Bike,189,https://www.carandbike.com/triumph-bikes/trident-660,,
+Suzuki V-Strom 650XT,884000,645.00,25.2,Petrol Bike,216,https://www.carandbike.com/suzuki-bikes/v-strom-650xt,,
+Mahindra Mojo,199000,295.00,25,Petrol Bike,186,https://www.carandbike.com/mahindra-bikes/mojo,,
+KTM 390 Adventure,335000,373.00,25,Petrol Bike,158,https://www.carandbike.com/ktm-bikes/390-adventure,,
+Kawasaki Ninja 400,499000,399.00,25,Petrol Bike,173,https://www.carandbike.com/kawasaki-bikes/ninja-400,,
+Kawasaki KX250F,799000,249.00,25,Petrol Bike,104,https://www.carandbike.com/kawasaki-bikes/kx250f,,
+Kawasaki KX 450,859000,449.00,25,Petrol Bike,110,https://www.carandbike.com/kawasaki-bikes/kx-450,,
+Honda CB 650 R,867275,648.70,25,Petrol Bike,206,https://www.carandbike.com/honda-bikes/cb-650-r,,
+Honda CBR650R,935000,648.70,25,Petrol Bike,211,https://www.carandbike.com/honda-bikes/cbr650r,,
+Indian Scout Sixty,1099500,999.00,25,Petrol Bike,254,https://www.carandbike.com/indian-bikes/scout-sixty,,
+Indian Scout,1269500,1131.00,25,Petrol Bike,244,https://www.carandbike.com/indian-bikes/scout,,
+Benelli TRK 251,251000,249.00,24.39,Petrol Bike,164,https://www.carandbike.com/benelli-bikes/trk-251,,
+Benelli Leoncino,470000,500.00,24,Petrol Bike,150,https://www.carandbike.com/benelli-bikes/leoncino,,
+BMW F900R,1080000,895.00,24,Petrol Bike,211,https://www.carandbike.com/bmw-bikes/f900r,,
+Harley-Davidson 1200 Custom,1089000,1202.00,24,Petrol Bike,268,https://www.carandbike.com/harley-davidson-bikes/1200-custom,,
+Triumph Tiger 850 Sport,1195000,888.00,24,Petrol Bike,192,https://www.carandbike.com/triumph-bikes/tiger-850-sport,,
+Triumph Bonneville Bobber,1225000,1200.00,24,Petrol Bike,251,https://www.carandbike.com/triumph-bikes/bonneville-bobber,,
+BMW F900XR,1230000,895.00,24,Petrol Bike,219,https://www.carandbike.com/bmw-bikes/f900xr,,
+Ducati Multistrada 1200 Enduro,1799000,1198.40,24,Petrol Bike,254,https://www.carandbike.com/ducati-bikes/multistrada-1200-enduro,,
+Kawasaki Ninja ZX-6R,1049000,636.00,23.59,Petrol Bike,196,https://www.carandbike.com/kawasaki-bikes/ninja-zx-6r,,
+Triumph Speedmaster,1195000,1200.00,23.25,Petrol Bike,263,https://www.carandbike.com/triumph-bikes/speedmaster,,
+Kawasaki Z650RS,672000,649.00,23.2,Petrol Bike,192,https://www.carandbike.com/kawasaki-bikes/z650rs,,
+Kawasaki Vulcan S,616000,649.00,23,Petrol Bike,235,https://www.carandbike.com/kawasaki-bikes/vulcan-s,,
+Kawasaki KLX 450R,899000,449.00,23,Petrol Bike,126,https://www.carandbike.com/kawasaki-bikes/klx-450r,,
+KTM 790 Duke,863945,799.00,22.72,Petrol Bike,169,https://www.carandbike.com/ktm-bikes/790-duke,,
+Kawasaki Versys X-300,469000,296.00,22,Petrol Bike,184,https://www.carandbike.com/kawasaki-bikes/versys-x-300,,
+Triumph Tiger Sport 660,895000,660.00,22,Petrol Bike,206,https://www.carandbike.com/triumph-bikes/tiger-sport-660,,
+BMW 750 GS,899000,853.00,22,Petrol Bike,224,https://www.carandbike.com/bmw-bikes/750-gs,,
+BMW 850 GS,1250000,853.00,22,Petrol Bike,229,https://www.carandbike.com/bmw-bikes/850-gs,,
+Triumph Speed Triple 1200 RS,1695000,1160.00,22,Petrol Bike,198,https://www.carandbike.com/triumph-bikes/speed-triple-1200-rs,,
+BMW R nine T,1850000,1170.00,22,Petrol Bike,208,https://www.carandbike.com/bmw-bikes/r-nine-t,,
+CFMoto 650NK,429000,649.00,21,Petrol Bike,206,https://www.carandbike.com/cfmoto-bikes/650nk,,
+Kawasaki Ninja 650,668000,649.00,21,Petrol Bike,196,https://www.carandbike.com/kawasaki-bikes/ninja-650,,
+Triumph Thruxton R,1192000,1200.00,21,Petrol Bike,203,https://www.carandbike.com/triumph-bikes/thruxton-r,,
+BMW R 1250 R,1625000,1254.00,21,Petrol Bike,239,https://www.carandbike.com/bmw-bikes/r-1250-r,,
+BMW S 1000 R,1790000,999.00,21,Petrol Bike,199,https://www.carandbike.com/bmw-bikes/s-1000-r,,
+BMW R 1250 GS,2045000,1254.00,21,Petrol Bike,249,https://www.carandbike.com/bmw-bikes/r-1250-gs,,
+BMW R 1250 GS Adventure,2240000,1254.00,21,Petrol Bike,268,https://www.carandbike.com/bmw-bikes/r-1250-gs-adventure,,
+BMW R 1250 RT,2250000,1254.00,21,Petrol Bike,279,https://www.carandbike.com/bmw-bikes/r-1250-rt,,
+Triumph  Speed Twin,1099000,1200.00,20.8,Petrol Bike,216,https://www.carandbike.com/triumph-bikes/speed-twin,,
+Triumph Scrambler 1200,1073000,1200.00,20.4,Petrol Bike,225,https://www.carandbike.com/triumph-bikes/scrambler-1200,,
+Aprilia Tuono 660,1309000,659.00,20.4,Petrol Bike,183,https://www.carandbike.com/aprilia-bikes/tuono-660,,
+Aprilia RS 660,1339000,659.00,20.4,Petrol Bike,183,https://www.carandbike.com/aprilia-bikes/rs-660,,
+Moto Guzzi V85 TT,1540000,853.00,20.4,Petrol Bike,229,https://www.carandbike.com/moto-guzzi-bikes/v85-tt,,
+Honda CRF1100L Africa Twin,1601500,1084.00,20.4,Petrol Bike,239,https://www.carandbike.com/honda-bikes/crf1100l-africa-twin,,
+Benelli BN 302R,310000,300.00,20,Petrol Bike,198,https://www.carandbike.com/benelli-bikes/bn-302r,,
+Benelli 502C,498000,500.00,20,Petrol Bike,216,https://www.carandbike.com/benelli-bikes/502c,,
+CFMoto 650MT,529000,649.00,20,Petrol Bike,218,https://www.carandbike.com/cfmoto-bikes/650mt,,
+CFMoto 650GT,559000,649.30,20,Petrol Bike,226,https://www.carandbike.com/cfmoto-bikes/650gt,,
+Kawasaki Versys 650,715000,649.00,20,Petrol Bike,216,https://www.carandbike.com/kawasaki-bikes/versys-650,,
+Ducati Scrambler,799000,803.00,20,Petrol Bike,173,https://www.carandbike.com/ducati-bikes/scrambler,,
+Harley-Davidson Iron 883,938000,883.00,20,Petrol Bike,256,https://www.carandbike.com/harley-davidson-bikes/iron-883,,
+Ducati Scrambler Desert Sled,980000,803.00,20,Petrol Bike,191,https://www.carandbike.com/ducati-bikes/scrambler-desert-sled,,
+Harley-Davidson Forty-Eight,1061000,1202.00,20,Petrol Bike,252,https://www.carandbike.com/harley-davidson-bikes/forty-eight,,
+Harley-Davidson Roadster,1099000,1202.00,20,Petrol Bike,250,https://www.carandbike.com/harley-davidson-bikes/roadster,,
+Ducati Hypermotard,1112000,937.00,20,Petrol Bike,204,https://www.carandbike.com/ducati-bikes/hypermotard,,
+Ducati Hyperstrada,1215000,937.00,20,Petrol Bike,210,https://www.carandbike.com/ducati-bikes/hyperstrada,,
+Ducati SuperSport,1349000,937.00,20,Petrol Bike,210,https://www.carandbike.com/ducati-bikes/supersport,,
+BMW R 1200 R,1505000,1170.00,20,Petrol Bike,232,https://www.carandbike.com/bmw-bikes/r-1200-r,,
+BMW R 1200 RS,1555000,1170.00,20,Petrol Bike,236,https://www.carandbike.com/bmw-bikes/r-1200-rs,,
+Kawasaki Z900RS,1570000,948.00,20,Petrol Bike,215,https://www.carandbike.com/kawasaki-bikes/z900rs,,
+BMW R nineT Scrambler,1675000,1197.00,20,Petrol Bike,220,https://www.carandbike.com/bmw-bikes/r-ninet-scrambler,,
+BMW R 1200 GS Adventure,1725000,1170.00,20,Petrol Bike,263,https://www.carandbike.com/bmw-bikes/r-1200-gs-adventure,,
+BMW R 1200 RT,1835000,1170.00,20,Petrol Bike,276,https://www.carandbike.com/bmw-bikes/r-1200-rt,,
+Yamaha YZF R1,2039233,998.00,20,Petrol Bike,200,https://www.carandbike.com/yamaha-bikes/yzf-r1,,
+Indian Chief Dark Horse,2075922,1890.00,20,Petrol Bike,304,https://www.carandbike.com/indian-bikes/chief-dark-horse,,
+Indian Chief Classic,2129500,1811.00,20,Petrol Bike,357,https://www.carandbike.com/indian-bikes/chief-classic,,
+BMW S 1000 XR,2130000,999.00,20,Petrol Bike,216,https://www.carandbike.com/bmw-bikes/s-1000-xr,,
+Indian Chief Bobber Dark Horse,2139925,1890.00,20,Petrol Bike,315,https://www.carandbike.com/indian-bikes/chief-bobber-dark-horse,,
+Indian Chief Vintage,2532500,1811.00,20,Petrol Bike,379,https://www.carandbike.com/indian-bikes/chief-vintage,,
+Indian Chieftain,3201000,1811.00,20,Petrol Bike,389,https://www.carandbike.com/indian-bikes/chieftain,,
+Ducati Scrambler 1100,1099000,1079.00,19.2,Petrol Bike,189,https://www.carandbike.com/ducati-bikes/scrambler-1100,,
+Ducati Multistrada 1260,1599000,1262.00,19.2,Petrol Bike,232,https://www.carandbike.com/ducati-bikes/multistrada-1260,,
+Triumph Street Triple,915000,765.00,19.1,Petrol Bike,166,https://www.carandbike.com/triumph-bikes/street-triple,,
+Benelli TNT 600i,620000,600.00,19,Petrol Bike,231,https://www.carandbike.com/benelli-bikes/tnt-600i,,
+Yamaha MT-09,1055354,847.00,19,Petrol Bike,193,https://www.carandbike.com/yamaha-bikes/mt-09,,
+Avantura Choppers Rudra,2390000,2025.70,19,Petrol Bike,344,https://www.carandbike.com/avantura-choppers-bikes/rudra,,
+Ducati Monster 797,803000,803.00,18.86,Petrol Bike,193,https://www.carandbike.com/ducati-bikes/monster-797,,
+Ducati Monster,1099000,937.00,18.8,Petrol Bike,188,https://www.carandbike.com/ducati-bikes/monster,,
+Ducati Diavel 1260,1849000,1262.00,18.5,Petrol Bike,244,https://www.carandbike.com/ducati-bikes/diavel-1260,,
+Kawasaki Z650,624000,649.00,18,Petrol Bike,186,https://www.carandbike.com/kawasaki-bikes/z650,,
+Triumph Street Twin,795000,900.00,18,Petrol Bike,216,https://www.carandbike.com/triumph-bikes/street-twin,,
+Triumph Street Scrambler,935000,900.00,18,Petrol Bike,223,https://www.carandbike.com/triumph-bikes/street-scrambler,,
+Triumph Bonneville T120,1099000,1200.00,18,Petrol Bike,217,https://www.carandbike.com/triumph-bikes/bonneville-t120,,
+Honda CB1000R +,1446657,998.00,18,Petrol Bike,213,https://www.carandbike.com/honda-bikes/cb1000r-plus,,
+Ducati 959 Panigale,1469000,955.00,18,Petrol Bike,200,https://www.carandbike.com/ducati-bikes/959-panigale,,
+Moto Guzzi V9 Roamer,1479000,850.00,18,Petrol Bike,199,https://www.carandbike.com/moto-guzzi-bikes/v9-roamer,,
+Moto Guzzi V9 Bobber,1479000,850.00,18,Petrol Bike,199,https://www.carandbike.com/moto-guzzi-bikes/v9-bobber,,
+Ducati Multistrada 1200,1532000,1198.40,18,Petrol Bike,232,https://www.carandbike.com/ducati-bikes/multistrada-1200,,
+BMW R 1200,1585000,1170.00,18,Petrol Bike,244,https://www.carandbike.com/bmw-bikes/r-1200,,
+Indian FTR 1200,1599000,1203.00,18,Petrol Bike,218,https://www.carandbike.com/indian-bikes/ftr-1200,,
+Honda CBR 1000RR,1643309,999.00,18,Petrol Bike,195,https://www.carandbike.com/honda-bikes/cbr-1000rr,,
+Harley-Davidson Pan America 1250,1690000,1252.00,18,Petrol Bike,242,https://www.carandbike.com/harley-davidson-bikes/pan-america-1250,,
+MV Agusta Brutale 800,1698553,798.00,18,Petrol Bike,175,https://www.carandbike.com/mv-agusta-bikes/brutale-800,,
+Triumph Tiger 1200,1919000,1160.00,18,Petrol Bike,245,https://www.carandbike.com/triumph-bikes/tiger-1200,,
+Kawasaki Ninja ZX-14R,1970000,1441.00,18,Petrol Bike,269,https://www.carandbike.com/kawasaki-bikes/ninja-zx-14r,,
+MV Agusta Brutale 800 RR,2052356,798.00,18,Petrol Bike,175,https://www.carandbike.com/mv-agusta-bikes/brutale-800-rr,,
+Avantura Choppers Pravega,2140000,2025.70,18,Petrol Bike,347,https://www.carandbike.com/avantura-choppers-bikes/pravega,,
+Indian Chieftain Dark Horse,2999000,1811.00,18,Petrol Bike,377,https://www.carandbike.com/indian-bikes/chieftain-dark-horse,,
+Indian Chieftain Elite,3800000,1811.00,18,Petrol Bike,388,https://www.carandbike.com/indian-bikes/chieftain-elite,,
+BMW R 18,1990000,1802.00,17.8,Petrol Bike,345,https://www.carandbike.com/bmw-bikes/r-18,,
+Kawasaki Ninja 1000,1151000,1043.00,17,Petrol Bike,238,https://www.carandbike.com/kawasaki-bikes/ninja-1000,,
+Triumph Tiger 900,1370000,888.00,17,Petrol Bike,194,https://www.carandbike.com/triumph-bikes/tiger-900,,
+BMW S 1000 RR,1950000,999.00,17,Petrol Bike,197,https://www.carandbike.com/bmw-bikes/s-1000-rr,,
+MV Agusta Turismo Veloce 800,2080665,798.00,17,Petrol Bike,191,https://www.carandbike.com/mv-agusta-bikes/turismo-veloce-800,,
+Harley-Davidson Road King,2499000,1745.00,17,Petrol Bike,362,https://www.carandbike.com/harley-davidson-bikes/road-king,,
+Honda CRF1000L Africa Twin,1350000,999.10,16,Petrol Bike,243,https://www.carandbike.com/honda-bikes/crf1000l-africa-twin,,
+Ducati  Multistrada V2,1465000,937.00,16,Petrol Bike,230,https://www.carandbike.com/ducati-bikes/multistrada-v2,,
+Ducati Multistrada 950,1549000,937.00,16,Petrol Bike,230,https://www.carandbike.com/ducati-bikes/multistrada-950,,
+Ducati Panigale V2,1748826,955.00,16,Petrol Bike,197,https://www.carandbike.com/ducati-bikes/panigale-v2,,
+BMW M 1000 RR,4200000,999.00,15.4,Petrol Bike,192,https://www.carandbike.com/bmw-bikes/m-1000-rr,,
+Kawasaki Z900,850000,948.00,15,Petrol Bike,208,https://www.carandbike.com/kawasaki-bikes/z900,,
+Harley-Davidson Street Bob,1259000,1745.00,15,Petrol Bike,286,https://www.carandbike.com/harley-davidson-bikes/street-bob,,
+Harley-Davidson Softail Low Rider,1375000,1745.00,15,Petrol Bike,300,https://www.carandbike.com/harley-davidson-bikes/softail-low-rider,,
+Harley-Davidson Fat Bob,1459000,1745.00,15,Petrol Bike,296,https://www.carandbike.com/harley-davidson-bikes/fat-bob,,
+Kawasaki Z1000,1510000,1043.00,15,Petrol Bike,221,https://www.carandbike.com/kawasaki-bikes/z1000,,
+Kawasaki Ninja ZX-10R,1537000,998.00,15,Petrol Bike,206,https://www.carandbike.com/kawasaki-bikes/ninja-zx-10r,,
+Kawasaki Z1000R,1610000,1043.00,15,Petrol Bike,221,https://www.carandbike.com/kawasaki-bikes/z1000r,,
+Ducati XDiavel,1648000,1262.00,15,Petrol Bike,247,https://www.carandbike.com/ducati-bikes/xdiavel,,
+Kawasaki Ninja ZX-10RR,1698000,998.00,15,Petrol Bike,206,https://www.carandbike.com/kawasaki-bikes/ninja-zx-10rr,,
+Harley-Davidson Fat Boy,1825000,1868.00,15,Petrol Bike,304,https://www.carandbike.com/harley-davidson-bikes/fat-boy,,
+Harley-Davidson Softail Deluxe,1865000,1745.00,15,Petrol Bike,316,https://www.carandbike.com/harley-davidson-bikes/softail-deluxe,,
+Harley-Davidson Heritage Softail Classic,1971000,1745.00,15,Petrol Bike,316,https://www.carandbike.com/harley-davidson-bikes/heritage-softail-classic,,
+Ducati Monster 1200,2010000,1198.00,15,Petrol Bike,211,https://www.carandbike.com/ducati-bikes/monster-1200,,
+MV Agusta Brutale 1090,2102268,1078.00,15,Petrol Bike,183,https://www.carandbike.com/mv-agusta-bikes/brutale-1090,,
+Kawasaki Z H2,2190000,998.00,15,Petrol Bike,239,https://www.carandbike.com/kawasaki-bikes/z-h2,,
+Kawasaki Ninja H2 SX,2289000,998.00,15,Petrol Bike,256,https://www.carandbike.com/kawasaki-bikes/ninja-h2-sx,,
+Moto Guzzi Audace,2314000,1380.00,15,Petrol Bike,299,https://www.carandbike.com/moto-guzzi-bikes/audace,,
+BMW K 1600 B,2810000,1649.00,15,Petrol Bike,350,https://www.carandbike.com/bmw-bikes/k-1600-b,,
+Kawasaki Ninja H2 SX SE,2819000,998.00,15,Petrol Bike,260,https://www.carandbike.com/kawasaki-bikes/ninja-h2-sx-se,,
+BMW K 1600,2830000,1649.00,15,Petrol Bike,350,https://www.carandbike.com/bmw-bikes/k-1600,,
+Moto Guzzi MGX-21,3026000,1380.00,15,Petrol Bike,341,https://www.carandbike.com/moto-guzzi-bikes/mgx-21,,
+Harley-Davidson Street Glide Special,3053000,1745.00,15,Petrol Bike,361,https://www.carandbike.com/harley-davidson-bikes/street-glide-special,,
+Harley-Davidson Road Glide Special,3299000,1745.00,15,Petrol Bike,372,https://www.carandbike.com/harley-davidson-bikes/road-glide-special,,
+Kawasaki Ninja H2,3499000,998.00,15,Petrol Bike,238,https://www.carandbike.com/kawasaki-bikes/ninja-h2,,
+MV Agusta F4 RR,3883000,998.00,15,Petrol Bike,190,https://www.carandbike.com/mv-agusta-bikes/f4-rr,,
+Indian Roadmaster,3900000,1811.00,15,Petrol Bike,421,https://www.carandbike.com/indian-bikes/roadmaster,,
+Indian Roadmaster Elite,4800000,1811.00,15,Petrol Bike,433,https://www.carandbike.com/indian-bikes/roadmaster-elite,,
+Ducati 1299 Panigale,5182000,1285.00,15,Petrol Bike,190,https://www.carandbike.com/ducati-bikes/1299-panigale,,
+Kawasaki Ninja H2R,7990000,998.00,15,Petrol Bike,216,https://www.carandbike.com/kawasaki-bikes/ninja-h2r,,
+MV Agusta Dragster 800 RR,2052356,798.00,14.9,Petrol Bike,168,https://www.carandbike.com/mv-agusta-bikes/dragster-800-rr,,
+Ducati Panigale V4,2350000,1103.00,14.5,Petrol Bike,195,https://www.carandbike.com/ducati-bikes/panigale-v4,,
+Ducati Multistrada V4,1899000,1158.00,14.3,Petrol Bike,232,https://www.carandbike.com/ducati-bikes/multistrada-v4,,
+Kawasaki W800 Street,733000,773.00,14,Petrol Bike,221,https://www.carandbike.com/kawasaki-bikes/w800-street,,
+Kawasaki Versys 1000,1172000,1043.00,14,Petrol Bike,255,https://www.carandbike.com/kawasaki-bikes/versys-1000,,
+Indian Scout Bobber,1199000,1133.00,14,Petrol Bike,245,https://www.carandbike.com/indian-bikes/scout-bobber,,
+Aprilia Tuono V4,2066000,1077.00,14,Petrol Bike,209,https://www.carandbike.com/aprilia-bikes/tuono-v4,,
+MV Agusta F3 800 RC,2149086,798.00,14,Petrol Bike,173,https://www.carandbike.com/mv-agusta-bikes/f3-800-rc,,
+Indian Super Chief Limited,2282155,1890.00,14,Petrol Bike,324,https://www.carandbike.com/indian-bikes/super-chief-limited,,
+Moto Guzzi Eldorado,2367000,1380.00,14,Petrol Bike,314,https://www.carandbike.com/moto-guzzi-bikes/eldorado,,
+Indian Springfield,3350000,1811.00,14,Petrol Bike,391,https://www.carandbike.com/indian-bikes/springfield,,
+Honda Gold Wing,3971822,1833.00,14,Petrol Bike,390,https://www.carandbike.com/honda-bikes/gold-wing,,
+Ducati StreetFighter V4,1999000,1103.00,13.2,Petrol Bike,199,https://www.carandbike.com/ducati-bikes/streetfighter-v4,,
+Ducati Monster 821,1099000,821.00,13,Petrol Bike,205,https://www.carandbike.com/ducati-bikes/monster-821,,
+Triumph Rocket 3,1990000,2458.00,13,Petrol Bike,291,https://www.carandbike.com/triumph-bikes/rocket-3,,
+BMW K 1600 GTL,2930000,1649.00,13,Petrol Bike,332,https://www.carandbike.com/bmw-bikes/k-1600-gtl,,
+Aprilia RSV4,2369000,1099.00,12,Petrol Bike,202,https://www.carandbike.com/aprilia-bikes/rsv4,,
+Harley-Davidson Sportster S,1551000,1252.00,11.8,Petrol Bike,228,https://www.carandbike.com/harley-davidson-bikes/sportster-s,,
+Suzuki Hayabusa,1640000,1340.00,11,Petrol Bike,266,https://www.carandbike.com/suzuki-bikes/hayabusa,,
+Ducati Hypermotard 950,1402278,937.00,9,Petrol Bike,176,https://www.carandbike.com/ducati-bikes/hypermotard-950,,
+Harley-Davidson CVO Limited,4999000,1923.00,8,Petrol Bike,411,https://www.carandbike.com/harley-davidson-bikes/cvo-limited,,
