@@ -3,22 +3,27 @@ Author: Piyush More
 Description: BMI Calculator.
 '''
 
+# Taking inputs from the user.
 height = float(input("Enter your height in meters: "))
 weight = float(input("Enter your weight in kg: "))
 
-bmi = weight/(height**2)
+# Calculating BMI of user and 
+bmi = round(weight/(height**2), 2)
 
+# Displaying BMI and health condition to user.
 if bmi < 18.5:
-    print("Your BMI Index is {} and this is considered as Under weight.".format(round(bmi,2)))
+    print("Your BMI Index is {} and this is considered as Under weight.".format(bmi))
 elif bmi >= 18.5 and bmi < 24.9:
-    print("Your BMI Index is {} and this is considered as Normal weight.".format(round(bmi,2)))
+    print("Your BMI Index is {} and this is considered as Normal weight.".format(bmi))
 elif bmi >= 25.0 and bmi < 29.9:
-    print("Your BMI Index is {} and this is considered as Over weight.".format(round(bmi,2)))
+    print("Your BMI Index is {} and this is considered as Over weight.".format(bmi))
 else:
-    print("Your BMI Index is {} and this is considered as Obese.".format(round(bmi,2)))
+    print("Your BMI Index is {} and this is considered as Obese.".format(bmi))
 
+# Asking users for suggestions of Diet with respect to their BMI and Health Status.
 food_suggestion = input("We would like to get some suggestions for your diet, just type 'yes' if needed or 'q' to skip: ")
 
+# Display suggestions of diet.
 if food_suggestion.lower() == 'yes':
     if bmi < 18.5:
         print('''Some common daily food items you can consume in order to get back into Normal weight are following:
@@ -69,8 +74,10 @@ if food_suggestion.lower() == 'yes':
 else:
     print("Thanks have a great day. Enjoy your food.")
 
+# Asking user whether he wants to get suggetsions on Body exercises.
 exercise_suggestion = input("We would also like give some suggestions on exercises for your health, just type 'yes' if needed or 'q' to skip: ")
 
+# Displaying list of suggestions of body exercises.
 if exercise_suggestion.lower() == 'yes':
     if bmi < 18.5:
         print('''1. Exercises for underweight individuals:
